@@ -12,6 +12,9 @@ class climbStairs{
 		}
 		return dp[s] = count;
 	}
+  public static void main(){
+
+  }
 	public static void main(String[] argv){
 		int n = 100;
 		int[] dp = new int[n + 1];
